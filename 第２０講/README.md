@@ -17,7 +17,16 @@ mysql> SELECT user,authentication_string FROM mysql.user;
 
 
 ### PHPをMySQLと接続させる
-PHPでMySQLを操作するには、PHP内に用意されているPDOというオブジェクトを使って行います。
+PHPでMySQLを操作するには、PHPのPDOというオブジェクトを使って行います。
+PDOを使用できるようにインストールをしておきましょう。端末に以下のコードを入力してください
+
+```
+sudo apt-get update -y
+sudo apt-get install -y php-pdo-mysql
+sudo systemctl restart apache2
+```
+
+インストールができたら早速新しいPDOオブジェクトを作成してみましょう。
 
 > __書式__：PDOクラスのオブジェクトを作成する (p. 423)
 > ```
