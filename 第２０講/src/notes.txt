@@ -1,0 +1,13 @@
+Change of format and using github
+
+PDO object and db interfacing 
+
+Opening the box $re
+
+Midway through, moving forward... 
+    Project proposals
+        - Personal homepage
+        - Personal blog
+        - Retail store
+        - Wiki site
+        - School website

@@ -1,0 +1,3 @@
+
+
+CREATE TABLE keijiban_tb(bangou INT AUTO_INCREMENT PRIMARY KEY, namae VARCHAR(50), message VARCHAR(100))
