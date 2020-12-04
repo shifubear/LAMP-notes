@@ -122,6 +122,7 @@ CREATE TABLE テーブル名(カラム１名　カラム１型, カラム２名�
 <!DOCTYPE html>
 <html>
 <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
 
