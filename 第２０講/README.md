@@ -10,7 +10,7 @@
 ```
 $ sudo mysql
 mysql> SELECT user,authentication_string FROM mysql.user;
-mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY ‘password’;
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
 mysql> FLUSH PRIVILEGES;
 mysql> SELECT user,authentication_string FROM mysql.user;
 ```
