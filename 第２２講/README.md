@@ -135,7 +135,7 @@ CREATE TABLE テーブル名(カラム１名　カラム１型, カラム２名�
 1. 表示のスクリプトを呼び出すフォーム
 
     ```
-    <form method="POST" action="____________.php">
+    <form method="POST" action="keijiban_select.php">
     <div>掲示板内のメッセージを表示します</div>
     <input type="submit" value="メッセージ表示">
     </form>
@@ -144,7 +144,7 @@ CREATE TABLE テーブル名(カラム１名　カラム１型, カラム２名�
 2. 挿入のスクリプトを呼び出すフォーム
 
     ```
-    <form method="POST" action="____________.php">
+    <form method="POST" action="keijiban_insert.php">
     <div>
     名前を入力してください<input type="text" name="namae">
     </div>
@@ -158,7 +158,7 @@ CREATE TABLE テーブル名(カラム１名　カラム１型, カラム２名�
 3. 削除のスクリプトを呼び出すフォーム
 
     ```
-    <form method="POST" action="____________.php">
+    <form method="POST" action="keijiban_delete.php">
     <div>
     削除する番号を入力してください<input type="text" name="bangou">
     </div>
@@ -169,7 +169,7 @@ CREATE TABLE テーブル名(カラム１名　カラム１型, カラム２名�
 4. 検索のスクリプトを呼び出すフォーム
 
     ```
-    <form method="POST" action="____________.php">
+    <form method="POST" action="keijiban_search.php">
     <div>
     検索のキーワードを入力してください<input type="text" name="search">
     </div>
