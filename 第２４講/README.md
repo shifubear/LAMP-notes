@@ -28,11 +28,11 @@ print "$namae さんへのメッセージが５件あります。<br>";
 
 もう一つ例を見てみましょう。二次方程式を解くコードを書いてみましょう。以下のような２次方程式をみてみましょう。
 
-\[x^2 + 6x - 7 = 0\]
+<img src="https://render.githubusercontent.com/render/math?math=x^2 %2B 6x - 7 = 0">
 
 解の公式を使えば簡単ですね。
 
-\[ \frac{-b \pm \sqrt{b^2 - 4ac} }{2a} \]
+<img src="https://render.githubusercontent.com/render/math?math=\frac{-b \pm \sqrt{b^2 - 4ac} }{2a}">
 
 ```php
 print "x^2 + 6x - 7 = 0 の解は ";
