@@ -56,7 +56,7 @@ $bunsi2 = -$b - sqrt($b * $b - 4 * $a * $c);
 $kai1 = $bunsi1 / $bunbo;
 $kai2 = $bunsi2 / $bunbo;
 
-print "x^2 + 6x - 7 = 0 の解は ";
+print "{$a}x^2 + {$b}x - {$c} = 0 の解は ";
 print $kai1;
 print " と ";
 print $kai2;
