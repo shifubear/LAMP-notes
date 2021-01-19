@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <form method="POST" action="keijiban.php">
+        <div>掲示板内のメッセージを表示します</div>
+        <input type="submit" value="メッセージ表示">
+        <input type="hidden" name="h" value="sel">
+    </form>
+    <form method="POST" action="keijiban.php">
+        <div>
+        名前を入力してください<input type="text" name="namae">
+        </div>
+        <div>
+        メッセージを入力してください<input type="text" name="message" size="150">
+        </div>
+        <input type="submit" value="メッセージ投稿">
+        <input type="hidden" name="h" value="ins">
+    </form>
+    <form method="POST" action="keijiban.php">
+        <div>
+        削除する番号を入力してください<input type="text" name="bangou">
+        </div>
+        <input type="submit" value="削除">
+        <input type="hidden" name="h" value="del">
+    </form>
+    <form method="POST" action="keijiban.php">
+        <div>
+        検索のキーワードを入力してください<input type="text" name="search">
+        </div>
+        <input type="submit" value="検索">
+        <input type="hidden" name="h" value="ser">
+    </form>
+    
+                
+</body>
+</html>
