@@ -111,7 +111,7 @@ DELETE FROM keijiban_tb1 WHERE bangou = {$number};
 ```php
 $search = $_POST["search"];  // 入力された検索する文字列
 
-$dbh->query("SELECT * FROM keijiban_tb1 WHERE message LIKE '%{$search}%';");
+$re = $dbh->query("SELECT * FROM keijiban_tb1 WHERE message LIKE '%{$search}%';");
 print "検索結果を表示します<br>";
 while ($kekka = $re->fetch()) {
     print $kekka[0];
