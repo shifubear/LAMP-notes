@@ -105,8 +105,8 @@ CREATE TABLE テーブル名(カラム１名　カラム１型, カラム２名�
 
 今回は以下のような構造を使います。
 ```
-├── html/ 
-│   ├── www/
+├── www/ 
+│   ├── html/
 │   │   ├── keijiban.html
 │   │   ├── keijiban_select.php
 │   │   ├── keijiban_insert.php
