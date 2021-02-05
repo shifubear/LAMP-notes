@@ -11,6 +11,7 @@
 ## 参照
 
 - [MySQL](#mysql)
+- [HTML](#html)
 - [PHP](#php)
 
 ### MySQL <a name="mysql"></a>
@@ -69,7 +70,39 @@ mysql> DELETE FROM テーブル名 WHERE 条件式;
 mysql> SELECT 表示するカラム名 FROM テーブル名 WHERE 検索するカラム名 LIKE 検索文字列;
 ```
 
-### PHP <a name="mysql"></a>
+### HTML <a name="html"></a>
+
+ヘッダータグ
+
+```html
+<h1></h1>
+```
+
+カスタムタグ
+
+```html
+<div></div>
+```
+
+改行
+
+```html
+<br>
+```
+
+リンク
+
+```html
+<a href="リンク先アドレス"></a>
+```
+
+画像タグ
+
+```html
+<img src="画像ファイルのアドレス" alt="画像の説明文" width="500" height="600">
+```
+
+### PHP <a name="php"></a>
 
 
 
