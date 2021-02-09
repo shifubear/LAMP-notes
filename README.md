@@ -109,7 +109,7 @@ mysql> SELECT 表示するカラム名 FROM テーブル名 WHERE 検索する�
 
 [HTMLタグ機能別リファレンス](https://web-designer.cman.jp/html_ref/function_list/)
 
-[CSS目的別リファレンス](https://web-designer.cman.jp/css_ref/function_list/)
+[CSS目的別リファレンス](https://developer.mozilla.org/ja/docs/Web/CSS/Reference)
 
 [SQLコマンドリファレンス](https://qiita.com/shuyam/items/809ff4123d8dcb7321f9)
 
