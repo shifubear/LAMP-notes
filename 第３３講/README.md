@@ -64,3 +64,7 @@ https://web-camp.io/magazine/archives/28769
 
 これからは、全体のスタイルの指定（フォントの大きさ、色、ボタンの形など）はここで行い、個々のファイル特有のスタイルは`<style></style>`タグで扱っていきます。
 
+## スケッチ例
+
+![example](../img/keijiban_sketch.jpeg
+)
