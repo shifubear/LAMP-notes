@@ -13,6 +13,7 @@
 - [MySQL](#mysql)
 - [HTML](#html)
 - [PHP](#php)
+- [便利ツール](#tools)
 
 ### MySQL <a name="mysql"></a>
 
@@ -104,7 +105,11 @@ mysql> SELECT 表示するカラム名 FROM テーブル名 WHERE 検索する�
 
 ### PHP <a name="php"></a>
 
+### 便利ツール <a name="tools"></a>
 
+-[色パレット選択](https://coolors.co/e3e7af-a2a77f-eff1c5-035e7b-002e2c)
+
+-[いらすとや](https://www.irasutoya.com/)
 
 
 [HTMLタグ機能別リファレンス](https://web-designer.cman.jp/html_ref/function_list/)
