@@ -1,5 +1,9 @@
 # 第３６講
 
+## GitHubデスクトップのダウンロード
+
+https://desktop.github.com/
+
 ## FTPとSSHをする準備をしましょう
 
 ### FTP用クライアントのインストール
