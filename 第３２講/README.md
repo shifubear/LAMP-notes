@@ -172,7 +172,7 @@ $ git commit -m "変更内容"
 投稿するためには以下のコードを使います。
 
 ```bash 
-$ git push origin master
+$ git push origin main
 ```
 
 実行が終了したら、ブラウザのGithubページを確認してみましょう。みんながこれまで頑張って書いたプログラムがしっかり載っています。
