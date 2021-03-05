@@ -103,6 +103,15 @@ mysql> SELECT 表示するカラム名 FROM テーブル名 WHERE 検索する�
 <img src="画像ファイルのアドレス" alt="画像の説明文" width="500" height="600">
 ```
 
+### GIT 
+
+```bash
+$ git add .
+$ git status
+$ git commit -m "変更内容"
+$ git push origin master/main
+```
+
 ### PHP <a name="php"></a>
 
 ### 便利ツール <a name="tools"></a>
