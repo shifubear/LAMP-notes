@@ -105,6 +105,12 @@ mysql> SELECT 表示するカラム名 FROM テーブル名 WHERE 検索する�
 
 ### GIT 
 
+- 新しくGITリポジトリを作る。
+
+[第３２講参照](https://github.com/shifubear/LAMP-notes/tree/master/%E7%AC%AC%EF%BC%93%EF%BC%92%E8%AC%9B)
+
+- のディレクトリのGITプロジェクトをGITHUBにプッシュする。
+
 ```bash
 $ git add .
 $ git status
